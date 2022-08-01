@@ -1,3 +1,3 @@
-# Splendour
+# Splendor
 
-An online version of the board game Splendour
+An online version of the board game Splendor
