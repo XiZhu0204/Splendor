@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "node dist/index",
+    "dev": "nodemon dist/index"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/XiZhu0204/Splendor.git"

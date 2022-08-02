@@ -16,8 +16,8 @@
       "noImplicitReturns": true,
       "noUnusedLocals": true,
       "noUnusedParameters": true,
-      "rootDir": ".",
-      "outDir": "../../dist/backend",
+      "rootDir": "src",
+      "outDir": "dist/",
       "moduleResolution": "node"
     },
     "exclude": ["node_modules"],
