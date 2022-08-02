@@ -20,6 +20,6 @@
       "outDir": "../../dist/backend",
       "moduleResolution": "node"
     },
-    "exclude": ["node_modules", "tests/**/*"],
-    "include": ["core/**/*"]
+    "exclude": ["node_modules"],
+    "include": ["src"]
   }
